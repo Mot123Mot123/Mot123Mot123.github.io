@@ -9,3 +9,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .subheading　{
 	font-family: 'Nato Sans TC',sans-serif;
 }
+
+.bg-primary {
+	background-color: #00aeff;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
